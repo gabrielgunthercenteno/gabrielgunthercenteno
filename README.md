@@ -1,5 +1,5 @@
 <div align="center">
-	<h1> Hello there, I'm Gabriel Centeno </h1>
+	<h1> Hello human, I'm Gabriel Centeno </h1>
 	:earth_americas: Florianópolis, SC - Brazil
 	<br/>
 	<br/>
