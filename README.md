@@ -22,8 +22,6 @@
 		</td>
 		<td>
 			<p align = "center">
-				<img alt="Gabriel Centeno's github stats" src="https://github-readme-stats.vercel.app/api?username=gabrielgunthercenteno&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> 
-			<br>
 				<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgunthercenteno&hide_langs_below=.25&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&layout=compact">     
 			</p>
 		</td>
@@ -33,6 +31,6 @@
 <h2 align="center">Connect :mailbox_with_mail:</h2>
 <div align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/-gabriel-centeno-a033a81a2-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/gabriel-centeno-a033a81a2)](https://br.linkedin.com/in/gabriel-centeno-a033a81a2)
+[![Linkedin Badge](https://img.shields.io/badge/-gabrielcenteno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/gabriel-centeno-a033a81a2)](https://br.linkedin.com/in/gabriel-centeno-a033a81a2)
 [![Gmail Badge](https://img.shields.io/badge/-gunthercenteno@gmail.com-c14438?style=flat-square&logo=Mail.Ru&logoColor=white&link=mailto:gunthercenteno@gmail.com)](mailto:gunthercenteno@gmail.com)
 			</div>
