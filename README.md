@@ -28,7 +28,7 @@
   </tr>
 </table>
 
-<h2 align="center">Connect :mailbox_with_mail:</h2>
+<h2 align="center">Contact Me :mailbox_with_mail:</h2>
 <div align="center">
 
 [![Linkedin Badge](https://img.shields.io/badge/-gabrielcenteno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/gabriel-centeno-a033a81a2)](https://br.linkedin.com/in/gabriel-centeno-a033a81a2)
