@@ -3,7 +3,7 @@
 	:earth_americas: Florianópolis, SC - Brazil
 	<br/>
 	<br/>
-	<p>Front-end Mobile Developer & Electrical Engineering Student</p>
+	<p>Front-end Developer & Electrical Engineering Student</p>
 </div>
 <table align="center">
 	<tr>
